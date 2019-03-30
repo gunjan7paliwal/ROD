@@ -1,9 +1,14 @@
-# ROD
-Hostel room renting systems
+# RYD : Hostel room renting systems
 
-Team Members:
+## Team Members:
 GUNJAN PALIWAL
+
 SATISH MHETRE
+
 RAHUL KUMAR
+
 JAY PRAKASH
+
 VIKRAM RATHOUR
+
+RYD=Rent Your Dorms
